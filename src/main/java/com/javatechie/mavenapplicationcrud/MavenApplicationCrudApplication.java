@@ -8,6 +8,7 @@ public class MavenApplicationCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MavenApplicationCrudApplication.class, args);
+		System.out.println("updated by tarique");
 	}
 
 }
