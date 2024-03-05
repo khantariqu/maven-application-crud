@@ -15,6 +15,7 @@ public class MavenApplicationCrudApplication {
 		System.out.println("updated 3 by tarique");
 		System.out.println("updated 4 by tarique");
 		System.out.println("updated 5 by tarique");
+		System.out.println("updated 6 by tarique");
 		
 	}
 
